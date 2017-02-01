@@ -3,6 +3,14 @@ body {
   font-size: 15px;
 }
 
+h1 {
+  color: #00f;
+}
+
+h2 {
+  color: #008000;
+}
+
 code {
   background-color: lightgray;
 }
@@ -13,8 +21,10 @@ dt dd {
 
 dt {
   font-weight: bold;
+  color: #2F4F4F;
 }
 
 dd {
   font-style: italic;
+  color: #808080;
 }
