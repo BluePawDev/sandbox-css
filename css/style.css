@@ -3,6 +3,11 @@ body {
   font-size: 15px;
 }
 
+.pageHeader {
+  background-color: #d3d3d3;
+  height: 80px;
+}
+
 h1 {
   color: #00f;
 }
